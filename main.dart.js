@@ -34176,7 +34176,7 @@ s.f=b.I(r).f.a.a>1440?100:0
 return new A.v9(new A.Cb(new A.a0R(s),null),s.YT(),B.j,s.w)},
 Yy(){var s=this,r=null,q="paddingHeaderContent",p="tabController",o=s.y,n=A.ac(o),m=n.j("al<1,ii>"),l=t.E
 n=n.j("al<1,k>")
-return A.e9(A.a([new A.cQ(new A.aF(A.b(s.f,q),0,A.b(s.f,q),0),A.k2(A.a([A.dx(r,A.bX("SeuCondominio",r,r,A.dm(r,32),r,r),r,r,r,r,B.kF,r),new A.AI(A.b(s.r,p),A.ag(new A.al(o,new A.a0S(),m),!0,m.j("b0.E")),r)],l),B.W,B.qa,B.ac),r),new A.d0(1,B.X,new A.vV(A.b(s.r,p),A.ag(new A.al(o,new A.a0T(),n),!0,n.j("b0.E")),r),r)],l),B.e8,B.aS)},
+return A.e9(A.a([new A.cQ(new A.aF(A.b(s.f,q),0,A.b(s.f,q),0),A.k2(A.a([A.dx(r,A.bX("SeuCondominium",r,r,A.dm(r,32),r,r),r,r,r,r,B.kF,r),new A.AI(A.b(s.r,p),A.ag(new A.al(o,new A.a0S(),m),!0,m.j("b0.E")),r)],l),B.W,B.qa,B.ac),r),new A.d0(1,B.X,new A.vV(A.b(s.r,p),A.ag(new A.al(o,new A.a0T(),n),!0,n.j("b0.E")),r),r)],l),B.e8,B.aS)},
 a0c(){var s=this,r=null,q="screenWidth",p=A.b(s.e,q),o=t.E
 return A.oP(A.e9(A.a([new A.cQ(new A.aF(A.b(s.e,q)*0.05,0,A.b(s.e,q)*0.05,0),A.k2(A.a([A.bX("SeuCondominium",r,r,A.dm(r,24),r,r),new A.BT(A.b(s.e,q)*0.05,B.yk,B.m,new A.a1_(s),r)],o),B.W,B.qa,B.ac),r),B.cD,new A.d0(1,B.X,A.b(s.x,"mobileBody"),r)],o),B.e8,B.aS),r,p)},
 YT(){var s=this.y,r=A.ac(s).j("al<1,lu>")
